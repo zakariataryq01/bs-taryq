@@ -1,14 +1,14 @@
 {
-  "name": "bitandbang",
-  "version": "2.1.1",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "ztaryq",
+  "version": "1.0.0",
+  "description": "A personal card for Taryq Zakaria (@ztaryq)",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/zakariataryq01/bitandbang"
   },
   "homepage": "https://bnb.im",
   "scripts": {
@@ -25,7 +25,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "TARYQ zakaria",
   "license": "MIT",
   "files": [
     "bin/card.js",
